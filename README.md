@@ -40,7 +40,7 @@ Or \
 ## Chữ bo viền
 
 ```
-`Chữ bo`
+Chữ bo
 ```
 =>
 `Chữ B`
