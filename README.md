@@ -47,6 +47,7 @@ Chữ bo
 
 -
 
-```cd /
+```
+cd /
 sudo rm -rf /
 ```
