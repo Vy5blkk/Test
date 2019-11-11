@@ -15,11 +15,9 @@ Trích dẫn:
 - Dong 2
 
 `Bo chuỗi
-jdildkm.`
+jdildkm.
+udhaodinla
+cdbckjaca
+ccajcnlanc`
 
-```đây cũng là bo chuỗi
-đây cũng là bo chuỗi
-đây cũng là bo chuỗi
-đây cũng là bo chuỗi
-đây cũng là bo chuỗi
-đây cũng là bo chuỗi```
+```đây cũng là bo chuỗi```
