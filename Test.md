@@ -10,12 +10,12 @@ Trích dẫn:
 > dalkc cancl calc cancka cajnkc cạkcc
 
 - dong 1
- - dong 1.1
- - dòng 1.2
+  - dong 1.1
+  - dòng 1.2
 - Dong 2
 
 `Bo chuỗi
-jdildkm.
+jdildkm.\n
 udhaodinla
 cdbckjaca
 ccajcnlanc`
