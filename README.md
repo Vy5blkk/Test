@@ -8,6 +8,8 @@ Git cơ bản
 5. [ Table ](#table)
 6. [ List ](#list)
 7. [Image](#img)
+8. [Trích dẫn](#trichdan)
+
 
 <a name="heading"></a>
 # Heading 1
@@ -58,11 +60,14 @@ Chữ bo
 =>
 `Chữ Bo`
 
--
---
-
+---
 
 ```
 cd /
 sudo rm -rf /
 ```
+
+<a name="trichdan"></a>
+## Trích dẫn
+
+> ngôn ngữ đánh dấu tweight, ban đầu được tạo bởi John Gruber và Aaron Swartz cho phép mọi người "viết bằng cách sử dụn
