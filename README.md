@@ -38,5 +38,5 @@ Or \
 <img src="https://pbs.twimg.com/profile_images/758084549821730820/_HYHtD8F.jpg">
 
 ## Chữ bo viền
-`Dòng 1 bo viền` => ```Dòng 2 bo viền```
+``Dòng 1 bo viền`` => ```Dòng 1 bo viền```
 
