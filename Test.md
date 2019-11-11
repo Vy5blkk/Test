@@ -40,7 +40,7 @@ Trích dẫn:
 
 ---
 `Bo chuỗi
-jdildkm.\n
+jdildkm.  
 udhaodinla
 cdbckjaca
 ccajcnlanc`
