@@ -1,5 +1,12 @@
 Git cơ bản
 
+# Mục Lục
+1. [ Description. ](#desc)
+2. [ Usage tips. ](#usage)
+
+<a name="desc"></a>
+## 1. Description
+
 # Heading 1
 ## Heading 2
 ### Heading 3
@@ -43,7 +50,7 @@ Or \
 Chữ bo
 ```
 =>
-`Chữ B`
+`Chữ Bo`
 
 -
 
