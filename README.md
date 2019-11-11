@@ -8,11 +8,9 @@ Git cơ bản
 ###### Heading 6
 
 #### Link
-`https://github.com/Vy5blkk/Test`\
-https://github.com/Vy5blkk/Test  
+`https://github.com/Vy5blkk/Test` => https://github.com/Vy5blkk/Test  
 Or \
-`[Click Here](https://github.com/Vy5blkk/Test)`\
-[Click Here](https://github.com/Vy5blkk/Test)
+`[Click Here](https://github.com/Vy5blkk/Test)` => [Click Here](https://github.com/Vy5blkk/Test)
 
 
 #### Chữ in đậm
