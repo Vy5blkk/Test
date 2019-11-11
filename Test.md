@@ -53,3 +53,9 @@ new line
 new line <br />
 new line
 new line
+
+
+## Table:
+
+|C1|C2|C3|
+|H1|H2|H2|
