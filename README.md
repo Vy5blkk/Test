@@ -43,4 +43,4 @@ Or \
 `Chữ bo`
 ```
 =>
-`Chữ BO SS`
+`Chữ B`
