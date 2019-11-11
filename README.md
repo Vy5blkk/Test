@@ -27,6 +27,7 @@ Or \
 |2X1|2X2|2X3|2X4|
 |3X1|3X2|3X3|3X4|
 
+
 ## List
 - Line 1
 - Line 2
@@ -35,3 +36,7 @@ Or \
 
 ## Image
 <img src="https://pbs.twimg.com/profile_images/758084549821730820/_HYHtD8F.jpg">
+
+## Chữ bo viền
+`Dòng 1 bo viền` => ```Dòng 2 bo viền```
+
