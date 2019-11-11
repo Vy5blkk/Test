@@ -48,4 +48,5 @@ Chữ bo
 -
 
 ```cd /
-sudo rm -rf /```
+sudo rm -rf /
+```
