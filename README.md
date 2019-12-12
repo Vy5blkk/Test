@@ -71,3 +71,22 @@ sudo rm -rf /
 ## Trích dẫn
 
 > ngôn ngữ đánh dấu tweight, ban đầu được tạo bởi John Gruber và Aaron Swartz cho phép mọi người "viết bằng cách sử dụn
+
+
+
+
+## Expand
+
+<details>
+<summary>Ví dụ:</summary>
+```
+osquery> select * from load_average;
++--------+----------+
+| period | average  |
++--------+----------+
+| 1m     | 0.070000 |
+| 5m     | 0.040000 |
+| 15m    | 0.010000 |
++--------+----------+
+```
+</details>
