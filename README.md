@@ -79,6 +79,7 @@ sudo rm -rf /
 
 <details>
 <summary>Ví dụ:</summary>
+	
 ```
 osquery> select * from load_average;
 +--------+----------+
@@ -89,4 +90,5 @@ osquery> select * from load_average;
 | 15m    | 0.010000 |
 +--------+----------+
 ```
+
 </details>
